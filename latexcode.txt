@@ -1,0 +1,108 @@
+\documentclass{article}
+\usepackage{graphicx}
+
+\title{\textbf{Shri Govindram Seksaria Institute of technology Indore (M.P.)}}
+\date{29 October 2023}
+\author{\textbf{Prashik Borade}}
+\begin{document}
+\maketitle
+ \centering
+ \includegraphics[width=3cm]{SGSITS_Indore.png}
+\end{figure}
+\subsection*{\textbf{\textit{Programming Practices : Mini Project(Jarvis )}}}
+\subsection*{\textbf{\textit{https://github.com/PrashikBorade/miniproject}}}
+\vspace{2mm}
+\hline \vspace{3mm}
+\subsection*{Objectives}
+\vspace{2mm}
+\begin{enumerate}
+ \item  Tic Tac Toe is a 2 player game where each player has a symbol (either X or O) and plays alternately to mark their symbol on a 3×3 grid.If any player gets their(X or 0) symbol consecutively 3 times in a row, column or diagonal then that player is the winner. So, in total, we have 8 winning conditions: 3 for the rows, 3 for the columns, and 2 for the diagonals. Isn’t it interesting!
+\vspace{6mm}
+\subsection*{Technology Used}
+\vspace{4mm}
+\begin{enumerate}
+\vspace{}
+\choices C
+ \vspace{5mm} \hline{}
+
+
+\end{enumerate}
+
+\subsection*{Purpose}
+\vspace{4mm}
+\begin{enumerate}
+The purpose of a Tic-Tac-Toe game program is to provide a fun and engaging gaming experience. It offers entertainment to players of all ages, allowing them to enjoy a classic and simple game. Beyond entertainment, Tic-Tac-Toe encourages strategic thinking and critical decision-making, as players aim to either win or block their opponent from winning. This game also has educational value, making it a useful tool for teaching basic concepts of strategy and game theory. Furthermore, it promotes social interaction, enabling friends and family to come together and enjoy a friendly competition. Overall, a Tic-Tac-Toe game program serves as a delightful pastime that combines entertainment, education, and social interaction.
+\end{enumerate}
+\vspace{3mm}
+
+\vspace{4mm}
+
+
+\hline{}
+\subsection*{Scope}
+\vspace{6mm}
+\begin{enumerate}
+ \item The core functionality of the program should include the ability for two players to take turns, placing their respective symbols (X and O) on a 3x3 grid. The program should also have rules in place to determine when a player has won or when the game ends in a draw.
+
+ \item The program can have a simple text-based interface or a graphical user interface (GUI) with visuals and interactive elements. The complexity of the user interface will depend on the design and user experience goals.
+ 
+ \item Decide whether the game will be for two human players, or if it will include options for single-player mode against an AI opponent. Developing a basic AI for single-player mode is a common feature.
+
+ \item If including AI opponents, you might want to provide different difficulty levels to cater to players of varying skill levels.
+
+ \item  Consider whether the game should be limited to a single device or if it should support networked multiplayer, allowing players to compete with others online.
+
+ \item You can choose to add features that allow players to customize the appearance of the game (e.g., themes, symbols, colors) or even the grid size, creating variations of the classic game.
+ 
+ \item  Implement a feature that keeps track of player statistics, such as wins, losses, and draws, as well as a history of previous games.
+
+ \item  Depending on the complexity of the program, you can include sound effects and animations to enhance the gaming experience.
+
+ \item  Make the program accessible to a wide range of users, considering features such as text-to-speech, keyboard shortcuts, and adjustable font sizes and colors.
+ 
+ \item  Decide whether the program will run on specific platforms (e.g., Windows, macOS, or a web application) or if it should be cross-platform and accessible on various devices.
+
+ \item Provide clear and user-friendly documentation or help features to guide players on how to use the program.
+
+ \item  Ensure that the game is thoroughly tested to eliminate bugs and issues, making it a smooth and enjoyable experience for players.
+
+ \item Collecting data on user behavior, sales, and other key performance indicators for analysis and reporting.
+
+ \item  Consider the potential for future updates and modifications, which might include adding more features or integrating with other technologies or services.
+
+\end{enumerate}
+ \vspace{6mm}
+ \hline{}
+
+
+
+
+
+\vspace{1cm}
+\vspace{2mm}
+\section*{\textbf{Output}}
+\vspace{3mm}
+ \centering
+ \includegraphics[width=8.8cm]{Screenshot 2023-11-07 224222.png}
+\vspace{10mm} \hline{}
+ \hline{}
+\section*{\textbf{Debugging}}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{Screenshot 2023-11-07 224520.png}
+\vspace{8mm}
+ \centering
+ \vspace{}
+ \includegraphics[width=8.8cm]{Screenshot 2023-11-07 224544.png}
+ \vspace{8mm}
+\vspace{}
+ \hline{}
+ \section*{\textbf{Profiling}}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{p1.png}
+\vspace{8mm}
+ \centering
+ \includegraphics[width=8.8cm]{p2.png}
+\vspace{8mm}
+\end{document}
